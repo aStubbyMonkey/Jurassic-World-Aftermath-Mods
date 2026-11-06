@@ -10,7 +10,7 @@ Mods for **Jurassic World Aftermath** on Meta Quest.
 
 | Mod | What it does | Latest |
 |---|---|---|
-| **Mod Menu** | A mod menu on your left wrist. Fly, change your size, turn invisible, ride a raptor, replace the raptors with Nextbots. | [Releases](../../releases?q=modmenu) |
+| **Mod Menu** | A Physical, In-Game Mod Menu attached to your wrist with Clickable Buttons with a large library of mods | [Releases](../../releases?q=modmenu) |
 
 More on the way. Each mod is released and versioned separately — see
 [Releases](#releases) below.
@@ -19,25 +19,8 @@ More on the way. Each mod is released and versioned separately — see
 
 ## Mod Menu
 
-A panel that rides your left wrist, built from the game's own UI so it looks
-like it belongs there. Press **MENU** on your left controller to open it, point
-with your right hand and pull the trigger to click.
-
-**Player** — Speed, Fly, Invisible, God Mode, Stamina, Player Size, Grab Anything
-**World** — Game Speed, ESP Objects
-**Dinosaur** — Raptor Speed, Raptor Size, Invisible Raptor, Raptor Volume, Ride Raptor
-**Nextbots** — replace the raptors with flat cutouts of your own artwork
-**Settings** — move the panel anywhere on your arm, or swap it to the other wrist
-
-### Riding the raptor
-
-The one worth trying. It does not spawn a fake raptor — you get on the **real**
-one and steer it through the game's own AI, so it walks, turns, leans into
-corners and plants its feet exactly the way it does in the story, because all of
-that is still the game doing it rather than the mod imitating it.
-
-Turn **God Mode** on first. You are about to sit on the back of something that
-still wants to kill you.
+A Physical Mod Menu Panel made from the Buttons, Textures, and Font from the game.
+Press **MENU** on your left controller to open it, point with your right hand and pull the trigger to click.
 
 ---
 
