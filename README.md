@@ -10,7 +10,7 @@ Mods for **Jurassic World Aftermath** on Meta Quest.
 
 | Mod | What it does | Latest |
 |---|---|---|
-| **Mod Menu** | A Physical, In-Game Mod Menu attached to your wrist with Clickable Buttons with a large library of mods | [Releases](../../releases?q=modmenu) |
+| **Mod Menu** | A Physical, In-Game Mod Menu attached to your wrist with Clickable Buttons and a large library of mods. | [Releases](../../releases?q=modmenu) |
 
 More on the way. Each mod is released and versioned separately — see
 [Releases](#releases) below.
@@ -44,13 +44,10 @@ Ten minutes, once. You never repeat steps 1 and 2.
 
 ### Requirements
 
-- A Meta Quest headset — built and tested on **Quest 3S**; Quest 2 and 3 should
-  work but are untested
+- A Meta Quest headset
 - Jurassic World Aftermath, on a copy you own
 - A Windows PC, for the install only
-- **A USB cable that carries data, not just power.** If your headset charges but
-  the PC never sees it, the cable is the problem. This is the single most common
-  thing that goes wrong.
+- A USB cable that carries data, not just power.
 
 ---
 
@@ -76,23 +73,15 @@ and tell players two different things.
 
 ## `[Beta]` means
 
-Wired up and will do something, but not finished. It ships because some of it
-works and it is more fun to have it than not.
+Any Mods that are tagged with "[Beta]" simply means that the mod is unstable, inconsistent, or doesn't fully work as intended.
 
-**Grab Anything** is the honest example. It picks up doors, the raptor, and
-anything it has already placed. Most ordinary scenery will not move, because the
-game merges hundreds of props into single combined meshes when it is built — for
-Quest performance — so the thing you are pointing at often is not a separate
-object any more. That decision was made before the game shipped and a mod cannot
-fully undo it.
+These mods are fine to use, but aren't fully fleshed out or finished.
 
 ---
 
 ## Notes
 
-- These are single player, offline mods. There is no multiplayer in this game.
-- Nothing is changed permanently. Everything a mod touches is restored when you
-  switch it off or close the game.
-- Not made by, endorsed by, or connected to **Coatsink** or **Atari**. Jurassic
-  World Aftermath is their game; these are fan mods.
-- Use them on a game you own.
+- These mods does not share or pirate any files of Jurassic World Aftermath
+- These mods are not affiliated with **Coatsink**, **Atari**, or **Universal Studios**
+- These mods do not change the code of Jurassic World Aftermath, it only layers the code on top.
+- These mods are unstable and can and will crash your game. Download at your own risk.
