@@ -1,2 +1,2 @@
-1.0.2
+1.0.1
 https://github.com/aStubbyMonkey/Jurassic-World-Aftermath-Mods/releases/download/modmenu-v1.0.1/JWA_Mod_Menu_v1.0.1.zip
