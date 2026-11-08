@@ -2,7 +2,7 @@
 
 Mods for **Jurassic World Aftermath** on Meta Quest. Single player, offline.
 
-### **[Download](../../releases/latest)**
+### **[⬇ Download the Injector](https://github.com/aStubbyMonkey/Jurassic-World-Aftermath-Mods/releases/download/injector-v1.1.0/JWA_Mod_Injector.zip)**
 
 ---
 
@@ -41,8 +41,8 @@ Developer Mode → on. Reboot.
 > ⚠️ Patching reinstalls the game and **deletes your save**. QuestPatcher can
 > back it up first.
 
-**4. Download the injector** — `JWA_Mod_Injector.zip` from the
-[latest release](../../releases/latest). Unzip anywhere.
+**4. Download the injector** — [`JWA_Mod_Injector.zip`](https://github.com/aStubbyMonkey/Jurassic-World-Aftermath-Mods/releases/download/injector-v1.1.0/JWA_Mod_Injector.zip).
+Unzip anywhere.
 
 **5. Install & Run** `JWA Mod Injector.bat`, click INSTALL, then launch Jurassic World: Aftermath
 press **MENU** on your left controller in game and a Mod Menu will pop up.

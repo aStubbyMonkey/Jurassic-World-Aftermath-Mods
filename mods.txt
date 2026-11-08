@@ -1,0 +1,16 @@
+# Everything the injector can install. One block per mod, blank line between.
+#
+#   id       short name, no spaces
+#   name     what the list shows
+#   file     the .so as it must land on the headset
+#   version  what the list shows and compares against what is installed
+#   url      direct link to the .so on a release
+#   old=1    optional - parks the entry under the older builds
+#
+# Adding a mod is editing this file. The injector does not need rebuilding.
+
+id=modmenu
+name=Mod Menu
+file=libjwa_mmm2.so
+version=1.0.2
+url=https://github.com/aStubbyMonkey/Jurassic-World-Aftermath-Mods/releases/download/modmenu-v1.0.2/libjwa_mmm2.so
