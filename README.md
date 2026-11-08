@@ -1,8 +1,8 @@
 # Jurassic World Aftermath — Mods
 
-Mods for **Jurassic World Aftermath** on Meta Quest. Single player, offline.
+Mods for **Jurassic World Aftermath** on Meta Quest.
 
-### **[⬇ Download the Injector](https://github.com/aStubbyMonkey/Jurassic-World-Aftermath-Mods/releases/download/injector-v1.1.0/JWA_Mod_Injector.zip)**
+### **[Download the Injector](https://github.com/aStubbyMonkey/Jurassic-World-Aftermath-Mods/releases/download/injector-v1.1.0/JWA_Mod_Injector.zip)**
 
 ---
 
@@ -58,6 +58,7 @@ handles updates.
 
 - The Whole Menu is a work in progress, and not everything will work perfectly.
 - The Level Loading and Saver do not fully work and are not suitable for Splicing Runs or TAS's
+- Ending Levels after the Explosion use a Different Hand Path, Mods and Menu may be buggy during the end of the game!
 
 ---
 
