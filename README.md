@@ -2,7 +2,7 @@
 
 Mods for **Jurassic World Aftermath** on Meta Quest.
 
-### **[Download the Injector](https://github.com/aStubbyMonkey/Jurassic-World-Aftermath-Mods/releases/download/injector-v1.1.0/JWA_Mod_Injector.zip)**
+### **[Download the Injector](https://github.com/aStubbyMonkey/Jurassic-World-Aftermath-Mods/releases/download/injector-v1.1.1/JWA_Mod_Injector.zip)**
 
 ---
 
@@ -12,7 +12,7 @@ Mods for **Jurassic World Aftermath** on Meta Quest.
 |---|---|
 | **Mod Menu** | A panel on your wrist that takes the game's UI and makes it into a Mod Menu, complete with a full Library of Mods |
 
-Each mod is released and versioned separately. Choose which one to Download with the [Injector](https://github.com/aStubbyMonkey/Jurassic-World-Aftermath-Mods/releases/download/injector-v1.1.0/JWA_Mod_Injector.zip)
+Each mod is released and versioned separately. Choose which one to Download with the [Injector](https://github.com/aStubbyMonkey/Jurassic-World-Aftermath-Mods/releases/download/injector-v1.1.1/JWA_Mod_Injector.zip)
 
 ---
 
@@ -41,7 +41,7 @@ Developer Mode → on. Reboot.
 > ⚠️ Patching reinstalls the game and **deletes your save**. QuestPatcher can
 > back it up first.
 
-**4. Download the injector** — [`JWA_Mod_Injector.zip`](https://github.com/aStubbyMonkey/Jurassic-World-Aftermath-Mods/releases/download/injector-v1.1.0/JWA_Mod_Injector.zip).
+**4. Download the injector** — [`JWA_Mod_Injector.zip`](https://github.com/aStubbyMonkey/Jurassic-World-Aftermath-Mods/releases/download/injector-v1.1.1/JWA_Mod_Injector.zip).
 Unzip anywhere.
 
 **5. Install & Run** `JWA Mod Injector.bat`, click INSTALL, then launch Jurassic World: Aftermath
