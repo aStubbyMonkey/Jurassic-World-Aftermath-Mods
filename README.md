@@ -12,7 +12,7 @@ Mods for **Jurassic World Aftermath** on Meta Quest.
 |---|---|
 | **Mod Menu** | A panel on your wrist that takes the game's UI and makes it into a Mod Menu, complete with a full Library of Mods |
 
-Each mod is released and versioned separately. One injector installs them all.
+Each mod is released and versioned separately. Choose which one to Download with the [Injector](https://github.com/aStubbyMonkey/Jurassic-World-Aftermath-Mods/releases/download/injector-v1.1.0/JWA_Mod_Injector.zip)
 
 ---
 
