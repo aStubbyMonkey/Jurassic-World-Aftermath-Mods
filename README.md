@@ -2,7 +2,7 @@
 
 Mods for **Jurassic World Aftermath** on Meta Quest. Single player, offline.
 
-### **[⬇ Download](../../releases/latest)**
+### **[Download](../../releases/latest)**
 
 ---
 
