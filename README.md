@@ -1,87 +1,71 @@
 # Jurassic World Aftermath — Mods
 
-Mods for **Jurassic World Aftermath** on Meta Quest.
+Mods for **Jurassic World Aftermath** on Meta Quest. Single player, offline.
 
-> **[Download the latest Mod Menu](../../releases/latest)** · **[Setup guide](#setup)**
-
----
-
-## The mods
-
-| Mod | What it does | Latest |
-|---|---|---|
-| **Mod Menu** | A Physical, In-Game Mod Menu attached to your wrist with Clickable Buttons and a large library of mods. | [Releases](../../releases?q=modmenu) |
-
-More on the way. Each mod is released and versioned separately — see
-[Releases](#releases) below.
+### **[⬇ Download](../../releases/latest)**
 
 ---
 
-## Mod Menu
+## Mods
 
-A Physical Mod Menu Panel made from the Buttons, Textures, and Font from the game.
-Press **MENU** on your left controller to open it, point with your right hand and pull the trigger to click.
+| Mod | What it does |
+|---|---|
+| **Mod Menu** | A panel on your wrist that takes the game's UI and makes it into a Mod Menu, complete with a full Library of Mods |
+
+Each mod is released and versioned separately. One injector installs them all.
+
+---
+
+## Requirements
+
+- A Meta Quest headset
+- Jurassic World Aftermath, on a copy you own
+- A Windows PC, for the install only
 
 ---
 
 ## Setup
 
-Ten minutes, once. You never repeat steps 1 and 2.
+**1. Developer Mode** — Meta Horizon app → your headset → Headset Settings →
+Developer Mode → on. Reboot.
 
-1. **Developer Mode on** — Meta Horizon phone app → your headset → Headset
-   Settings → Developer Mode. Reboot, plug into a PC, and accept
-   *"Allow USB debugging?"* **inside the headset**.
-2. **Patch the game with [QuestPatcher](https://github.com/Lauriethefish/QuestPatcher/releases)**
-   — pick Jurassic World Aftermath, click Patch, then launch the game once.
-   ⚠️ **Patching reinstalls the game, which deletes your save.** QuestPatcher has
-   a backup option; use it if you care about your progress.
-3. **Run `INSTALL.bat`** from the release zip. It finds ADB, or downloads the
-   official copy from Google if you do not have one. Nothing else to set up.
-4. **Press MENU** on your left controller in game.
+**2. Plug into your PC** — put the headset on and accept the
+*"Allow USB debugging?"* prompt inside it.
 
-**[→ Full illustrated guide, with troubleshooting](#)**
-*(replace this link with your published tutorial page)*
+> Use a cable that carries **data**, not just power. If the headset charges but
+> your PC never sees it, that's the cable.
 
-### Requirements
+**3. Patch with [QuestPatcher](https://github.com/Lauriethefish/QuestPatcher/releases)**
+— pick Jurassic World Aftermath, click Patch, then launch the game once.
 
-- A Meta Quest headset
-- Jurassic World Aftermath, on a copy you own
-- A Windows PC, for the install only
-- A USB cable that carries data, not just power.
+> ⚠️ Patching reinstalls the game and **deletes your save**. QuestPatcher can
+> back it up first.
 
----
+**4. Download the injector** — `JWA_Mod_Injector.zip` from the
+[latest release](../../releases/latest). Unzip anywhere.
 
-## Releases
+**5. Install & Run** `JWA Mod Injector.bat`, click INSTALL, then launch Jurassic World: Aftermath
+press **MENU** on your left controller in game and a Mod Menu will pop up.
 
-Every mod is tagged with its own prefix, so versions never collide:
+Windows will warn you about an unsigned script: **More info → Run anyway**.
 
-```
-modmenu-v1.15.0          Mod Menu
-speedchanger-v1.2.0      Random Speed Changer
-```
-
-Each mod also keeps a one-line version file at the repo root — `modmenu_latest.txt`
-and so on. **The mods read these themselves**, which is how the Mod Menu can tell
-you an update exists without you ever plugging into a PC. The filename is what
-keeps each mod reading only its own version.
-
-Do not hand-edit those files. `RELEASE.bat` generates the zip and the version
-file together from the version compiled into the mod, so they cannot drift apart
-and tell players two different things.
+Keep the injector. It downloads whatever the current version is, so it also
+handles updates.
 
 ---
 
-## `[Beta]` means
+## Known issues
 
-Any Mods that are tagged with "[Beta]" simply means that the mod is unstable, inconsistent, or doesn't fully work as intended.
-
-These mods are fine to use, but aren't fully fleshed out or finished.
+- The Whole Menu is a work in progress, and not everything will work perfectly.
+- The Level Loading and Saver do not fully work and are not suitable for Splicing Runs or TAS's
 
 ---
 
-## Notes
+## Uninstalling
 
-- These mods does not share or pirate any files of Jurassic World Aftermath
-- These mods are not affiliated with **Coatsink**, **Atari**, or **Universal Studios**
-- These mods do not change the code of Jurassic World Aftermath, it only layers the code on top.
-- These mods are unstable and can and will crash your game. Download at your own risk.
+- Open the injector and click **UNINSTALL MOD**. This will completely uninstall the Mod Menu.
+- To Completely un-patch the game, uninstall and reinstall the game on your Quest Library and Store
+
+---
+
+Not affiliated with Coatsink, Atari or Universal.
